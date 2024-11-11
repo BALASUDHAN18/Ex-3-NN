@@ -1,5 +1,5 @@
 ## ENTER YOUR NAME: P Balasudhan
-## ENTER YOUR REGISTER NO. 212222240017
+## ENTER YOUR REGISTER NO: 212222240017
 ## EX. NO.3
 ## DATE:
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
